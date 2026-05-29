@@ -1,0 +1,3 @@
+//tạo file .gitignore để bỏ qua các file và thư mục không cần thiết khi đẩy code lên github, ở đây mình sẽ bỏ qua file .env để bảo mật thông tin và thư mục node_modules để giảm dung lượng của repository
+.env
+node_modules/
